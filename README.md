@@ -15,8 +15,11 @@ Steps:
 5. Rerun the program and enter 2
 6. Here, use private key to decrypt your message!
 
-## Usecases
-You can share your public key to your friends and ask them to send encrypted messages to you by using your public key.
-And you can decrypt those messages using your private key!
-And get their public keys to send encrypted messages to them!
+## Use Cases
+You can share your public key to your friends and ask them to send encrypted messages to you by using your public key.   
+
+And you can decrypt those messages using your private key!   
+
+And get their public keys to send encrypted messages to them!   
+
 Technically, only the person with private key can read the message other than the sender.Cool, right! 
